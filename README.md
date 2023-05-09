@@ -27,3 +27,13 @@ Repository to help me study for Software Eng Internship.
 
 ### Data Structure
 A collection of data values, the structure that holds the data together, the relationships between the data, and the functions/operations that help insert/update/delete the data within the structure.
+
+# TODO:
+1. Trees
+2. Graphs: BFS/DFS
+3. LRU Cache
+3. Final Search algorithm for easy
+4. DP
+5. Memoizationh
+6. 
+
